@@ -1,56 +1,55 @@
 # particle_simulation
-Proxima Centauri: N-Body Simulation 
+#Proxima Centauri: N-Body Simulation 
 
-An ongoing computational physics project focused on exploring orbital mechanics, gravitational interactions, and multi-body dynamics inspired by the Proxima Centauri stellar system.
+#An ongoing computational physics project focused on exploring orbital mechanics, gravitational interactions, and multi-body dynamics inspired by the Proxima Centauri stellar system.
 
-The project aims to progressively develop a 3D N-body simulation using numerical methods and scientific computing with Python.
+#The project aims to progressively develop a 3D N-body simulation using numerical methods and scientific computing with Python.
 
-Current Progress
+#Current Progress
 
-The project currently includes an initial working prototype of a three-particle system.
+#The project currently includes an initial working prototype of a three-particle system.
 
-Implemented Features
+#Implemented Features
 
-- 3D particle motion and trajectory visualization.
-- Pairwise Newtonian gravitational interactions.
-- Magnetic Lorentz force for charged particles.
-- Numerical integration using the Semi-Implicit Euler method.
-- Animated particle trajectories using Matplotlib.
-- Customizable initial positions, velocities, masses, and charges.
+#- 3D particle motion and trajectory visualization.
+#- Pairwise Newtonian gravitational interactions.
+#- Magnetic Lorentz force for charged particles.
+#- Numerical integration using the Semi-Implicit Euler method.
+#- Animated particle trajectories using Matplotlib.
+#- Customizable initial positions, velocities, masses, and charges.
 
-Technologies Used
+#Technologies Used
 
-- Python
-- NumPy
-- Matplotlib
-- Matplotlib Animation
+#- Python
+#- NumPy
+#- Matplotlib
+#- Matplotlib Animation
 
-Project Roadmap
+#Project Roadmap
 
-- [x] Build the initial three-particle working prototype.
-- [x] Implement pairwise gravitational interactions.
-- [x] Implement magnetic force interactions.
-- [x] Visualize 3D trajectories.
-- [ ] Improve numerical integration and stability.
-- [ ] Expand the model to include additional celestial bodies.
-- [ ] Incorporate the Proxima Centauri planetary system.
-- [ ] Explore the Alpha Centauri A–B binary system.
-- [ ] Develop a more comprehensive multi-body simulation.
-- [ ] Perform numerical validation and conservation analysis.
+#- [x] Build the initial three-particle working prototype.
+#- [x] Implement pairwise gravitational interactions.
+#- [x] Implement magnetic force interactions.
+#- [x] Visualize 3D trajectories.
+#- [ ] Improve numerical integration and stability.
+#- [ ] Expand the model to include additional celestial bodies.
+#- [ ] Incorporate the Proxima Centauri planetary system.
+#- [ ] Explore the Alpha Centauri A–B binary system.
+#- [ ] Develop a more comprehensive multi-body simulation.
+#- [ ] Perform numerical validation and conservation analysis.
 
-Project Status
+#Project Status
 
-Early Development — Working Prototype
+#Early Development — Working Prototype
 
-This is an evolving educational and computational physics project. The current implementation is not a validated astronomical model of the Proxima Centauri system.
+#This is an evolving educational and computational physics project. The current implementation is not a validated astronomical model of the Proxima Centauri system.
 
-Motivation
+#Motivation
 
-The goal of this project is to explore how mathematical models and computational methods can be used to understand complex gravitational systems and orbital dynamics.
-Built through independent research, experimentation, mathematical exploration, and AI-assisted development.
+#The goal of this project is to explore how mathematical models and computational methods can be used to understand complex gravitational systems and orbital dynamics.
+#Built through independent research, experimentation, mathematical exploration, and AI-assisted development.
 
----
-Exploring the universe, one simulation at a time.
+#Exploring the universe, one simulation at a time.
 
 
 import numpy as np
